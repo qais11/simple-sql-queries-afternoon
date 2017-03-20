@@ -29,7 +29,7 @@ Use [www.sqlteaching.com](http://www.sqlteaching.com/) or [sqlbolt.com](http://s
   * List all Person where their favorite color is orange, green or blue (use IN)
   * List all Person where their favorite color is yellow or purple
 
-## ORDER 
+## ORDER
 4. Create a table called Orders that records the productName, productPrice, Quantity, and personId  
 5. Add 5 Orders to Order table
 6. Select all the records from the Order table
@@ -55,7 +55,7 @@ Use [www.sqlteaching.com](http://www.sqlteaching.com/) or [sqlbolt.com](http://s
 * Find everyone that reports to Nancy Edwards (Use the ReportsTo column)
 * Count how many people live in Lethbridge
 
-## Invoice 
+## Invoice
 9. Use the Invoice table for the following
 
 * Count how many orders were made from the USA
